@@ -27,8 +27,8 @@ Este repositorio contiene los artefactos para el caso de uso *Sistema de registr
 ## Estado
 - Documentación:  completada (DRS_v1, DRS_v2)  
 - Plan de pruebas:  completado  
-- Propuesta de mantenimiento:  pendiente (plantilla incluida en `mantenimiento/`)  
-- Investigación Markdown:  pendiente (plantilla en `investigacion/`)  
+- Propuesta de mantenimiento:  completado
+- Investigación Markdown: completado
 
 ## Requerimientos
 Los documentos con detalle están en:
