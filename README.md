@@ -1,5 +1,4 @@
-# Sistema_-registro-de-usuarios.
-Elaboración de mi caso.zip
+
 # Sistema de registro de usuarios
 
 **Descripción breve**  
