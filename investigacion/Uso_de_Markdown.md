@@ -21,7 +21,7 @@ Markdown es ampliamente utilizado en el desarrollo de software porque:
 -  **Permite versionar la documentación** junto con el código fuente.  
 -  **Es multiplataforma y portable**: se ve igual en Windows, Linux o macOS.
 
-En resumen, Markdown ayuda a que la documentación sea **ligera, colaborativa y siempre actualizada**.
+En resumen, Markdown ayuda a que la documentación sea **ligera, colaborativa y siempre actualizada**
 
 ##  Sintaxis básica y ejemplos prácticos
 
