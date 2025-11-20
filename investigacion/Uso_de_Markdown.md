@@ -8,6 +8,8 @@ Fue creado por *John Gruber* en 2004 con el propósito de hacer que la escritura
 A diferencia de los procesadores de texto tradicionales, Markdown se basa en símbolos simples como `#`, `*`, `-` o `` ` `` para definir títulos, listas, negritas, enlaces, tablas y fragmentos de código.  
 Esto facilita la redacción de documentación técnica que luego puede convertirse fácilmente a HTML, PDF o presentarse directamente en plataformas como **GitHub** o **GitLab**.
 
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png)
+
 ---
 
 ##  ¿Por qué se utiliza en proyectos de software?
