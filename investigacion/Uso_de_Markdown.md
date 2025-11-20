@@ -48,8 +48,7 @@ Lista ordenada:
 ~~Texto tachado~~
 ## Imágenes 
 
-![Logotipo de la empresa](https://www.ejemplo.com/logo.png "Este es el logotipo")
-
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png)
 ## Tablas
 | Campo       | Tipo   | Descripción                   |
 |--------------|--------|-------------------------------|
