@@ -46,6 +46,9 @@ Lista ordenada:
 **Texto en negrita**  
 *Texto en cursiva*  
 ~~Texto tachado~~
+## Imágenes 
+
+![Logotipo de la empresa](https://www.ejemplo.com/logo.png "Este es el logotipo")
 
 ## Tablas
 | Campo       | Tipo   | Descripción                   |
