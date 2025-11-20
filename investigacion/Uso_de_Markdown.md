@@ -52,11 +52,11 @@ Lista ordenada:
 
 ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png)
 ## Tablas
-| Campo       | Tipo   | Descripción                   |
-|--------------|--------|-------------------------------|
-| email        | texto  | Correo del usuario (único)    |
-| contraseña   | texto  | Contraseña cifrada (hash)     |
-| rol          | texto  | Rol del usuario en el sistema |
+| Campo       | Tipo   | Descripción.             |
+|-------------|--------|--------------------------
+| email       | texto  | Correo del usuario (único)    |
+| contraseña  | texto  | Contraseña cifrada (hash)     |
+| rol         | texto  | Rol del usuario en el sistema |
 
 
 ##  Ventajas de usar Markdown junto con GitHub
